@@ -91,27 +91,3 @@ dependencies {
 }
 ```
 
-## Detail
-
-See detail <https://waylau.com/mogodb-file-server-with-spring-boot>.
-
-## Contact 联系作者
-
-* Blog: [waylau.com](https://waylau.com)
-* Gmail: [waylau521(at)gmail.com](mailto:waylau521@gmail.com)
-* Weibo: [waylau521](http://weibo.com/waylau521)
-* Twitter: [waylau521](https://twitter.com/waylau521)
-* Github : [waylau](https://github.com/waylau)
-
-## Donate 捐赠
-
-Support me!
-
-感谢您对老卫[开源工作](https://github.com/waylau)的支持!
-
-![开源捐赠](https://waylau.com/images/showmethemoney-sm.jpg)
-
-捐赠所得所有款项将用于开源事业！
-=======
-# mongodb-file-server
->>>>>>> be1d3148cb43d2440dc23a14b0f97e8d294bde95
