@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MongoDB File Server（基于 MongoDB 的文件服务器）
 
 MongoDB File Server is a file server system based on MongoDB. MongoDB File Server is committed to the storage of small files, such as pictures in the blog, ordinary documents and so on.
@@ -111,3 +112,6 @@ Support me!
 ![开源捐赠](https://waylau.com/images/showmethemoney-sm.jpg)
 
 捐赠所得所有款项将用于开源事业！
+=======
+# mongodb-file-server
+>>>>>>> be1d3148cb43d2440dc23a14b0f97e8d294bde95
